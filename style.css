@@ -48,8 +48,14 @@ nav ul{
     color: white;
 }
 
+.navigation.active{
+    background-color: rgb(248, 151, 82);
+    color: black;
+}
+
 .navigation:hover{
     background-color: rgb(0, 0, 0);
+    color: white;
 }
 
 .content{
