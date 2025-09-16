@@ -1,2 +1,3 @@
 # energy_consumption_website_jody
 
+In creating this website, I sought assistance from ChatGPT, especially for questions relevant to JavaScript since I had no prior experience with it. I asked how to swap between HTML pages using JavaScript and ChatGPT showed me the method of using JavaScript functions. I also asked several questions related to CSS in order to style and arrange my website in a proper layout. Furthermore, I requested suggestions from ChatGPT for the possible placeholder content that would fulfill the theme. Overall, ChatGPT provided useful ideas, explanations and solutions. I ensured that I understood the code before implementing it in my project. This experience enabled me to learn the basics of JavaScript and improve my web programming skills.
